@@ -43,11 +43,12 @@ def max_marks(list1):
 
 
 ## Output:
-![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/8d7fd83f-8375-4396-8c18-22cf9cc78c59)
+![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/fda991ff-9f5d-4844-ad3f-46e21d72e739)
 
-![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/8e2100fd-2ad0-4ea6-af14-660000cbc936)
+![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/5837dc46-a8fe-4c53-b09d-d18cbf440b3c)
 
-![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/cd1d2e83-df1f-4229-be4e-334cb421e418)
+![image](https://github.com/Aswinth21/FindMaximum/assets/120236638/00347c7e-deaa-42e5-af36-f25942aef485)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
